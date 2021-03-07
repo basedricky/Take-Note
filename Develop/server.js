@@ -15,8 +15,9 @@ app.use(express.json());
 app.use(express.static('public'));
 
 //Require routes files
-require('./routes/htmlRoutes')(app);
 require('./routes/apiRoutes')(app);
+require('./routes/htmlRoutes')(app);
+
 
 
 // Setup listener
