@@ -2,9 +2,11 @@
 
 I created a simple application using Express to run the server, uniqid to generate unique IDs, and fs and path dependencies.
 
-GITHUB Repository: https://github.com/basedricky/Take-Note
-Deployed Application: https://takenote801.herokuapp.com/
-YouTube Demo: https://www.youtube.com/watch?v=3opMzfO9Wvw 
+GITHUB Repository: https://github.com/basedricky/Take-Note  
+
+Deployed Application: https://takenote801.herokuapp.com/  
+
+YouTube Demo: https://www.youtube.com/watch?v=3opMzfO9Wvw  
 
 
 
